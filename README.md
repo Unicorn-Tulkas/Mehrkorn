@@ -17,7 +17,7 @@ The keyboard is sandwich mount, so we need a [plate](https://github.com/Unicorn-
 
 To assemble everything you need a few other things, a list of which I have compiled [here](https://github.com/Unicorn-Tulkas/corne-heavy/blob/main/shopping%20list/shoppinglist.md "shoppinglist.md").
 
-
+![Fusion Render of the assembled case](https://github.com/Unicorn-Tulkas/corne-heavy/blob/main/images/Render.png "Render.png")
 
 License:
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">/corne-heavy</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/Unicorn-Tulkas/corne-heavy" property="cc:attributionName" rel="cc:attributionURL">Unicorn Army Tulkas#5780</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
